@@ -11,17 +11,13 @@
 
 ## 🎨 Animated Developer Life  
 
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
-
 ---
-### 💻 A Passionate Frontend Developer from Bangladesh  
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jenodinerifat59&theme=onedark&no-frame=true&row=1&column=3&hide=ISSUES,FOLLOWERS,STARS)](https://github.com/ryo-ma/github-profile-trophy)
+### 💻 <p align="center"><a href="https://github.com/jenodinerifat59" target="_blank">A Passionate Frontend Developer from Bangladesh</a></p>
 
 ---
 
@@ -44,6 +40,7 @@
   <a href="https://www.instagram.com/jenodinerifat/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.youtube.com/@rifatjrmusic" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
   <a href="https://discord.gg/1421181223455428615" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://github.com/jenodinerifat59" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
@@ -51,7 +48,7 @@
 ## 🛠️ Languages and Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,python,java,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,git,figma" />
 </p>
 
 ---
@@ -59,17 +56,36 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenodinerifat59&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jenodinerifat59&show_icons=true&theme=radical&hide_border=false&count_private=true&title_color=00ff00&icon_color=00ff00&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenodinerifat59&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenodinerifat59&theme=radical&hide_border=false&stroke=00ff00&background=0d1117&fire=ff4500" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenodinerifat59&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenodinerifat59&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jenodinerifat59&theme=onedark&no-frame=true&row=1&column=3&hide=ISSUES,FOLLOWERS,STARS" alt="Trophy" />
+  </a>
+</div>
+
+
+
+<p align="center">
+  <!-- Contribution Graph Rounded -->
+  <img src="https://ghchart.rshah.org/jenodinerifat59" alt="GitHub Contribution Graph" 
+       width="500" height="150" style="border-radius:15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 ---
-
 
 ## ☕ Support My Work  
 
@@ -87,3 +103,4 @@
 ---
 
 <!-- END OF README -->
+
