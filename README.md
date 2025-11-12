@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub States & Activity  
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -79,11 +79,8 @@
 
 
 
-<p align="center">
-  <!-- Contribution Graph Rounded -->
-  <img src="https://ghchart.rshah.org/jenodinerifat59" alt="GitHub Contribution Graph" 
-       width="500" height="150" style="border-radius:15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenodinerifat59&theme=radical" 
+       alt="Profile Summary" width="49%" height="500px" style="display:inline-block; border-radius:10px;" />
 
 ---
 
