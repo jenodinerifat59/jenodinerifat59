@@ -77,10 +77,10 @@
   </a>
 </div>
 
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenodinerifat59&theme=radical" 
-       alt="Profile Summary" width="49%" height="500px" style="display:inline-block; border-radius:10px;" />
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenodinerifat59&theme=radical"
+         alt="Profile Summary" width="49%" height="500px" style="display:inline-block; border-radius:10px;" />
+</div>      
 
 ---
 
