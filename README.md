@@ -1,103 +1,167 @@
-<!-- PROFILE README FOR MD. JENODINE ISLAM RIFAT -->
+<!-- ========================================= -->
+<!--      MD. JENODINE ISLAM RIFAT README       -->
+<!-- ========================================= -->
 
-<!-- Typing Animation Header -->
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+MD.+JENODINE+ISLAM+RIFAT;Frontend+Developer+from+Bangladesh;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00F700&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+MD.+JENODINE+ISLAM+RIFAT;Frontend+Developer+from+Bangladesh;React+%7C+JavaScript+%7C+Tailwind+CSS;Always+Learning+New+Technologies!;Welcome+to+My+GitHub+Profile+🚀" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🎨 Animated Developer Life  
+# 💻 Animated Developer Life
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
 
-### 💻 <p align="center"><a href="https://github.com/jenodinerifat59" target="_blank">A Passionate Frontend Developer from Bangladesh</a></p>
+# 👨‍💻 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212744275-2c5c6d84-91a4-4d4c-8e7f-7b4e98d9d3b6.gif"/>
+
+- 🇧🇩 From **Bangladesh**
+- 💻 Passionate Frontend Developer
+- 🎓 Computer Science & Technology Student
+- 🌱 Currently Learning **React, Node.js & MongoDB**
+- 🚀 Building Modern Web Applications
+- ⚡ Love Clean UI & Creative Design
+- 🎯 Dream: Become a Full Stack Developer
+
+<br>
 
 ---
 
-## 🌱 Currently Learning  
-🚀 **Node.js** — building scalable backend systems with JavaScript.  
-
----
-
-## 📫 How to Reach Me  
-📧 **mdjenodineislamrifat@gmail.com**  
-⚡ **Fun Fact:** I think I’m funny 😄  
-
----
-
-## 🌐 Connect With Me  
+# 📫 Contact Me
 
 <p align="center">
-  <a href="https://twitter.com/jenodine_r93990" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.facebook.com/jenodine.rifat" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://www.instagram.com/jenodinerifat/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.youtube.com/@rifatjrmusic" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-  <a href="https://discord.gg/1421181223455428615" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://github.com/jenodinerifat59" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+
+<a href="mailto:mdjenodineislamrifat@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jenodinerifat59">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🛠️ Languages and Tools  
+# 🎯 2026 Goals
+
+- 🌱 Become a Full Stack Developer
+- ⚛ Master React Ecosystem
+- 🚀 Learn Next.js
+- 🟢 Learn Node.js & Express
+- 🍃 Master MongoDB
+- 🔥 Build Real-World SaaS Projects
+- 🌍 Contribute to Open Source
+- 💼 Get a Remote Developer Job
+
+---
+
+# ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,git,figma" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,vscode,figma&perline=8"/>
+
 </p>
 
 ---
 
-## 📊 GitHub States & Activity  
+# 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jenodinerifat59&show_icons=true&theme=radical&hide_border=false&count_private=true&title_color=00ff00&icon_color=00ff00&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jenodinerifat59&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenodinerifat59&theme=radical&hide_border=false&stroke=00ff00&background=0d1117&fire=ff4500" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenodinerifat59&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenodinerifat59&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
-</p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jenodinerifat59&theme=onedark&no-frame=true&row=1&column=3&hide=ISSUES,FOLLOWERS,STARS" alt="Trophy" />
-  </a>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jenodinerifat59&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenodinerifat59&theme=radical"
-         alt="Profile Summary" width="49%" height="500px" style="display:inline-block; border-radius:10px;" />
-</div>      
-
----
-
-## ☕ Support My Work  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jenodinerifat">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
 </p>
 
 ---
 
-## 💬 Quote of the Day  
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-<!-- END OF README -->
+# 📈 Activity Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jenodinerifat59&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📑 GitHub Profile Summary
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenodinerifat59&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jenodinerifat59&theme=tokyonight"/>
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jenodinerifat59&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jenodinerifat59&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Enthusiast-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JavaScript-Lover-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jenodinerifat59&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Thanks For Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0:00c6ff,100:0072ff"/>
+
+</p>
