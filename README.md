@@ -1,3 +1,4 @@
+
 <!-- ========================================================= -->
 
 <!--              MD. JENODINE ISLAM RIFAT                    -->
@@ -16,11 +17,7 @@
     alt="Typing Animation"
   />
 </p>
-  <img
-    src="./banner.png"
-    alt="MD. Jenodine Islam Rifat"
-    width="100%"
-  />
+<img width="1456" height="720" alt="banner" src="https://github.com/user-attachments/assets/f769cf06-9ea2-4155-96b0-d7c96c47af83" />
 </p>
 
 <br>
