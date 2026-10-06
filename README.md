@@ -6,7 +6,7 @@
 
 <!-- ========================================================= -->
 
-<!-- ========================= BANNER ========================= -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
   <img
@@ -19,8 +19,8 @@
   <img
     width="1456"
     height="720"
-    alt="banner"
     src="https://github.com/user-attachments/assets/f769cf06-9ea2-4155-96b0-d7c96c47af83"
+    alt="MD. Jenodine Islam Rifat Banner"
   />
 </p>
 
@@ -56,31 +56,29 @@
 
 <!-- ========================== ABOUT ======================== -->
 
-<div align="center">
-
 ## 🧑‍💻 About Me
 
 ### Hey there! 👋
 
 I'm **MD. JENODINE ISLAM RIFAT**, a passionate **Frontend Developer** from Bangladesh 🇧🇩.
 
-I enjoy building **modern, responsive and user-friendly web applications**
-with a strong focus on clean UI, smooth user experience and maintainable code.
+I enjoy building **modern, responsive and user-friendly web applications** with a strong focus on clean UI, smooth user experience and maintainable code.
 
 🎓 Currently pursuing my **B.Sc. in Computer Science & Engineering at BUBT**.
 
-💻 My primary focus is **Frontend Development**, especially the React ecosystem
-and modern Next.js applications.
+💻 My primary focus is **Frontend Development**, especially the React ecosystem and modern Next.js applications.
+
+🌱 Currently learning and improving my skills in **React.js, Next.js, TypeScript, Better Auth and modern UI/UX**.
 
 <br>
 
-<img
-src="https://user-images.githubusercontent.com/74038190/212744275-2c5c6d84-91a4-4d4c-8e7f-7b4e98d9d3b6.gif"
-width="280"
-alt="Coding"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212744275-2c5c6d84-91a4-4d4c-8e7f-7b4e98d9d3b6.gif"
+    width="280"
+    alt="Coding"
+  />
+</p>
 
 ---
 
@@ -91,6 +89,7 @@ alt="Coding"
 ## ✨ Quick Info
 
 <table align="center">
+
 <tr>
 <th>🎓 Education</th>
 <th>💻 Focus</th>
@@ -111,6 +110,7 @@ alt="Coding"
 <td><b>Better Auth</b></td>
 <td><b>Dhaka / Bogura</b></td>
 </tr>
+
 </table>
 
 </div>
@@ -132,7 +132,7 @@ alt="Coding"
 ### 🧩 UI & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=daisyui,figma,vite,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode&perline=6" />
 </p>
 
 ### 🔐 Authentication & UI Libraries
@@ -158,61 +158,35 @@ alt="Coding"
 ## 🌱 Currently Working On
 
 <table align="center">
+
 <tr>
-<td align="center">
-
-⚛️ **React.js**
-
-</td>
+<td align="center">⚛️ <b>React.js</b></td>
 </tr>
 
 <tr>
-<td align="center">
-
-▲ **Next.js**
-
-</td>
+<td align="center">▲ <b>Next.js</b></td>
 </tr>
 
 <tr>
-<td align="center">
-
-TS **TypeScript**
-
-</td>
+<td align="center">TS <b>TypeScript</b></td>
 </tr>
 
 <tr>
-<td align="center">
-
-🎨 **Tailwind CSS**
-
-</td>
+<td align="center">🎨 <b>Tailwind CSS</b></td>
 </tr>
 
 <tr>
-<td align="center">
-
-🔐 **Better Auth**
-
-</td>
+<td align="center">🔐 <b>Better Auth</b></td>
 </tr>
 
 <tr>
-<td align="center">
-
-🧩 **Modern UI / UX**
-
-</td>
+<td align="center">🧩 <b>Modern UI / UX</b></td>
 </tr>
 
 <tr>
-<td align="center">
-
-🚀 **Real-world Frontend Projects**
-
-</td>
+<td align="center">🚀 <b>Real-world Frontend Projects</b></td>
 </tr>
+
 </table>
 
 </div>
@@ -221,53 +195,48 @@ TS **TypeScript**
 
 <!-- ============================ GOALS ====================== -->
 
-<div align="center">
-
 ## 🎯 My Goals
 
-<p align="center">
-
-⚛️ Become highly skilled in **React.js** <br>
-▲ Build production-ready **Next.js applications** <br>
-💙 Improve **TypeScript** <br>
-🎨 Create beautiful and accessible **UI/UX** <br>
-🔐 Build secure authentication systems <br>
-🚀 Build meaningful real-world projects <br>
-🌍 Contribute to Open Source <br>
-💼 Start my professional **Frontend Developer** career <br>
-🧩 Gradually grow toward **Full Stack Development**
-
-</p>
-
-</div>
+* ⚛️ Become highly skilled in **React.js**
+* ▲ Build production-ready **Next.js applications**
+* 💙 Improve my **TypeScript** skills
+* 🎨 Create beautiful and accessible **UI/UX**
+* 🔐 Build secure authentication systems
+* 🚀 Build meaningful real-world projects
+* 🌍 Contribute to Open Source
+* 💼 Start my professional **Frontend Developer** career
+* 🧩 Gradually grow toward **Full Stack Development**
 
 ---
 
 <!-- ========================= GITHUB STATS ================== -->
-
 <div align="center">
 
 ## 📊 GitHub Analytics
 
+<br>
+
 <p align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=jenodinerifat59&show_icons=true&count_private=true&hide_border=true&bg_color=0C2246&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF"
-alt="GitHub Stats"
-/>
+  <img
+    width="420"
+    height="190"
+    src="https://github-readme-stats.vercel.app/api?username=jenodinerifat59&show_icons=true&count_private=true&hide_border=true&bg_color=0C2246&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&rank_icon=github"
+    alt="GitHub Stats"
+  />
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenodinerifat59&layout=compact&hide_border=true&bg_color=0C2246&title_color=38BDF8&text_color=FFFFFF"
-alt="Top Languages"
-/>
+  &nbsp;&nbsp;
+
+  <img
+    width="420"
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenodinerifat59&layout=compact&hide_border=true&bg_color=0C2246&title_color=38BDF8&text_color=FFFFFF&langs_count=6"
+    alt="Top Languages"
+  />
 
 </p>
 
 </div>
-
----
 
 <!-- ========================= STREAK ======================== -->
 
@@ -371,14 +340,7 @@ alt="Contribution Snake"
 
 <!-- ========================= PROFILE VIEWS ================= -->
 
-<p align="center">
 
-<img
-src="https://komarev.com/ghpvc/?username=jenodinerifat59&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
-alt="Profile Views"
-/>
-
-</p>
 
 <br>
 
@@ -387,19 +349,13 @@ alt="Profile Views"
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0C2246,50:12476A,100:0D4669"
-width="100%"
-alt="Footer"
+ src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0C2246,50:12476A,100:0D4669&text=Thanks%20for%20visiting%20my%20profile!%20💙&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55"
+ width="100%"
+ alt="Thanks for visiting my profile"
 />
 
 </p>
 
-<div align="center">
-
-<strong>Thanks for visiting my profile! 💙</strong>
-
-<br><br>
-
-<i>Keep Learning • Keep Building • Keep Growing 🚀</i>
-
-</div>
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
