@@ -1,9 +1,6 @@
 <!-- ========================================================= -->
-
-<!--              MD. JENODINE ISLAM RIFAT                    -->
-
+<!--              MD. JENODINE ISLAM RIFAT                     -->
 <!--              GitHub Profile README                        -->
-
 <!-- ========================================================= -->
 
 <!-- ========================= HEADER ========================= -->
@@ -197,15 +194,15 @@ I enjoy building **modern, responsive and user-friendly web applications** with 
 
 ## 🎯 My Goals
 
-* ⚛️ Become highly skilled in **React.js**
-* ▲ Build production-ready **Next.js applications**
-* 💙 Improve my **TypeScript** skills
-* 🎨 Create beautiful and accessible **UI/UX**
-* 🔐 Build secure authentication systems
-* 🚀 Build meaningful real-world projects
-* 🌍 Contribute to Open Source
-* 💼 Start my professional **Frontend Developer** career
-* 🧩 Gradually grow toward **Full Stack Development**
+- ⚛️ Become highly skilled in **React.js**
+- ▲ Build production-ready **Next.js applications**
+- 💙 Improve my **TypeScript** skills
+- 🎨 Create beautiful and accessible **UI/UX**
+- 🔐 Build secure authentication systems
+- 🚀 Build meaningful real-world projects
+- 🌍 Contribute to Open Source
+- 💼 Start my professional **Frontend Developer** career
+- 🧩 Gradually grow toward **Full Stack Development**
 
 ---
 
@@ -338,13 +335,7 @@ alt="Contribution Snake"
 
 ---
 
-<!-- ========================= PROFILE VIEWS ================= -->
-
-
-
-<br>
-
-<!-- =========================== FOOTER ====================== -->
+<!-- ========================= FOOTER ======================== -->
 
 <p align="center">
 
